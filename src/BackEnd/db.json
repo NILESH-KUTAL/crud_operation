@@ -1,0 +1,32 @@
+{
+  "cust": [
+    {
+      "id": "0011",
+      "name": "NILESH KUTAL",
+      "mobile": "08329408402",
+      "address": "Gundegaon",
+      "email": "kutalnilesh8690@gmail.com"
+    },
+    {
+      "name": "pavan Kutal",
+      "mobile": "9421946157",
+      "address": "Gundegaon",
+      "email": "kutalnilesh8690@gmail.com",
+      "id": "2ad4"
+    },
+    {
+      "id": "a493",
+      "name": "Akash kutal",
+      "mobile": "08329408402",
+      "address": "Gundegaon",
+      "email": "kutalnilesh8690@gmail.com"
+    },
+    {
+      "id": "8d5e",
+      "name": "NILESH",
+      "mobile": "8329408402",
+      "address": "Gundegaon",
+      "email": "kutalnilesh8690@gmail.com"
+    }
+  ]
+}
